@@ -1,4 +1,5 @@
-![Image](../../../Shark.png)
+![Image](../Shark.png)
+
 
 # Sharks
 
