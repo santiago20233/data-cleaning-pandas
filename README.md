@@ -29,17 +29,17 @@ After importing the clean dataset, the first hypothesis will be tested. The impo
 A list of keywords is made to refer to every single body part present in a leg or an arm. 
 Then a function is created to iterate all the ocurrences of a body part in the column "Injury" and add 1 to either arm or leg.
 In the end a bar plot with the results as shown below
-(Add image)
+![Image](git.ignore/ArmLeg.png)
 For the next hypothesis three columns have to be tested. The first one being "Age", a bar plot is created to visualize what age gets attacked the most. 
-(Graph)
+![Image](git.ignore/Age.png)
 Secondly, the column "Country" is analysed, a pie chart is used to determine which country has the most shark attacks.
-(Graph)
+![Image](git.ignore/Pie.png)
 Lastly, a function is used to count the ocurrences to Males and compare them to Females. 
-(Graph)
+![Image](git.ignore/MaleFemale.png)
 Next up, for the third hypothesis, another function is used to compare the sum of attacks in each time period.
-In first place, the values equal to 0 are deleted, as they will compromise our results.
+In first place, the values equal to 0 are deleted, as they will compromise our results. 
 In second place, the number of attacks from 1973-today are counted and so are the attacks from 0-1973 (without counting the null values).
-(Graph)
+![Image](git.ignore/50year.png)
 
 The analysis is divided into three parts, testing each hypothesis to determine its validity.
 The first hypothesis was tested by using the "Injury" column. A list of keywords was created to refer to every body part in a leg or arm. A function was created to iterate through each instance of a body part in the "Injury" column and add 1 to either "arm" or "leg". A bar plot was created to visualize the results.
