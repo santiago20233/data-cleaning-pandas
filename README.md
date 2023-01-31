@@ -44,8 +44,6 @@ For the third hypothesis, another function was used to compare the number of att
 - The third hypothesis was also proven correct: There has been a significant increase in the number of shark attacks in the past 50 years compared to previous recorded history.
 
 
-<center>
-<img src=“git.ignore/ArmLeg.png” alt=“name” width=“500”/>
-</center>
+The End.
 
 
