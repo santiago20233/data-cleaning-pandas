@@ -1,4 +1,4 @@
-![Image](../Shark.png)
+![Image](git.ignore/Shark.png)
 
 
 # Sharks
